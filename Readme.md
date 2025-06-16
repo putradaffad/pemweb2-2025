@@ -1,4 +1,4 @@
-# 🚀 Setup Akhir Proyek di WSL
+## 🔧 Daftar Perintah Shortcut untuk Workflow Proyek
 
 ```bash
 dcu          # Menjalankan docker-compose
