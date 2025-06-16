@@ -2,5 +2,5 @@
 @cType = application/json
 
 ### Get all products
-GET {{baseUrl}}/
+GET {{baseUrl}}
 Content-Type: {{cType}}
